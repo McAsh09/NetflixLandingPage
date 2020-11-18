@@ -1,0 +1,86 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans&display=swap');
+
+body
+{
+    background-image: url("https://dkr0pu7ej5xex.cloudfront.net/wp-content/uploads/2017/04/24135159/Netflix-Background.jpg");
+    
+    font-family: 'PT Sans', sans-serif;   
+    
+} 
+
+h3
+{   
+    color:white;
+    font-size:26px;
+}
+
+h1
+{
+    color:white;
+    font-size: 70.4px;
+}
+
+#content
+{   
+    max-width:800px;
+    margin:auto;
+    text-align:center;
+    padding-top: 20rem;
+  
+}
+
+#button
+{   
+    background-color: #e50914;
+    line-height: normal;
+    padding: 7px 17px;
+    font-weight: 400;
+    font-size: 1rem;
+    float: right;
+    border-radius: 5px;
+    max-width:auto;
+}
+
+.link
+{
+    text-decoration:none;
+    color:white;
+    font-size:16px;
+}
+
+#align
+{
+    padding-top:2.5rem;
+    padding-right:2.5rem;
+}
+
+
+
+.input-group
+{
+    width:5rem;
+    padding-left:20rem;
+    padding-right:20rem;
+    height:auto;
+    color:white;
+}
+
+.input-group-btn
+{
+    background-color:rgb(250, 27, 27);
+    
+}
+
+
+.on-hover:hover
+{
+    color:black;
+}
+
+#last-line
+{   
+    max-width:800px;
+    margin:auto;
+    text-align:center;
+    color:white;
+}
